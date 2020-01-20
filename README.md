@@ -9,3 +9,5 @@ Copy this code to your templates/your_template/html/mod_articles_category folder
 
 I named it alternative.php to have it available both ways...
 
+After saving it, you can add style .featured to your css file(s)
+
